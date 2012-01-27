@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><!-- EMMA v2.1.5320 (stable) report, generated Fri Jan 27 12:17:00 PST 2012 -->
+<?xml version="1.0" encoding="UTF-8"?><!-- EMMA v2.1.5320 (stable) report, generated Fri Jan 27 15:59:09 PST 2012 -->
 
 <report>
   <stats>
@@ -6,26 +6,26 @@
     <classes value="17"/>
     <methods value="151"/>
     <srcfiles value="1"/>
-    <srclines value="455"/>
+    <srclines value="458"/>
   </stats>
   <data>
     <all name="all classes">
       <coverage type="class, %" value="88%  (15/17)"/>
       <coverage type="method, %" value="90%  (136/151)"/>
-      <coverage type="block, %" value="82%  (1968/2396)"/>
-      <coverage type="line, %" value="76%  (347.7/455)"/>
+      <coverage type="block, %" value="82%  (1980/2408)"/>
+      <coverage type="line, %" value="77%  (350.7/458)"/>
 
       <package name="com.github.kevinsawicki.http">
         <coverage type="class, %" value="88%  (15/17)"/>
         <coverage type="method, %" value="90%  (136/151)"/>
-        <coverage type="block, %" value="82%  (1968/2396)"/>
-        <coverage type="line, %" value="76%  (347.7/455)"/>
+        <coverage type="block, %" value="82%  (1980/2408)"/>
+        <coverage type="line, %" value="77%  (350.7/458)"/>
 
         <srcfile name="HttpRequest.java">
           <coverage type="class, %" value="88%  (15/17)"/>
           <coverage type="method, %" value="90%  (136/151)"/>
-          <coverage type="block, %" value="82%  (1968/2396)"/>
-          <coverage type="line, %" value="76%  (347.7/455)"/>
+          <coverage type="block, %" value="82%  (1980/2408)"/>
+          <coverage type="line, %" value="77%  (350.7/458)"/>
 
           <class name="HttpRequest$1">
             <coverage type="class, %" value="0%   (0/1)"/>
@@ -167,8 +167,8 @@
           <class name="HttpRequest">
             <coverage type="class, %" value="100% (1/1)"/>
             <coverage type="method, %" value="95%  (105/111)"/>
-            <coverage type="block, %" value="82%  (1181/1443)"/>
-            <coverage type="line, %" value="77%  (254.2/330)"/>
+            <coverage type="block, %" value="82%  (1193/1455)"/>
+            <coverage type="line, %" value="77%  (257.2/333)"/>
 
             <method name="keepAlive (boolean): void">
               <coverage type="method, %" value="0%   (0/1)"/>
@@ -322,8 +322,8 @@
             </method>
             <method name="form (Map, String): HttpRequest">
               <coverage type="method, %" value="100% (1/1)"/>
-              <coverage type="block, %" value="92%  (94/102)"/>
-              <coverage type="line, %" value="88%  (23/26)"/>
+              <coverage type="block, %" value="93%  (106/114)"/>
+              <coverage type="line, %" value="90%  (26/29)"/>
             </method>
             <method name="HttpRequest (CharSequence, String): void">
               <coverage type="method, %" value="100% (1/1)"/>
